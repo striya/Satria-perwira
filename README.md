@@ -20,11 +20,11 @@ I am an active student with communication skills, responsibility, independent wo
 ---
 ### Connect with me:
 
-[![ Instagram ](.https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg)](https://Instagram.com/stria0.1/)
+[ Instagram ](https://Instagram.com/stria0.1/)
 &nbsp;&nbsp;
-[![LinkedIn](./img/LinkedIn.svg)](https://id.linkedin.com/in/satriaperwira71)
+[LinkedIn](https://id.linkedin.com/in/satriaperwira71)
 &nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/2stria2)
+[Twitter](https://twitter.com/2stria2)
 &nbsp;&nbsp;
-[![discord](./img/discord.svg)](https://discord.com/users/784018331752595477)
+[ Discord ](https://discord.com/users/784018331752595477)
 &nbsp;&nbsp;
